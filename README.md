@@ -1,6 +1,9 @@
 # gitstart
 깃 사용에 대한 기본적인 방법
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leesanghe&show_icons=true&theme=radical)
+
 ```
 백틱(`) <-- 3개 코드라인
 # 헤더1
